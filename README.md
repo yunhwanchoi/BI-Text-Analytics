@@ -11,6 +11,6 @@ The goal of this project was to extract the following:
 
 The system parsed through a corpus of .txt files of total 730 Business Insider articles, taken from 2013 and 2014. The script is tailored to the format of these text files and will need to be adjusted if other articles are used. 
 
-Overview and summary of the results is available in [BI Text Classification Overview.ipynb](https://github.com/yunhwanchoi/BI-Text-Classification/blob/main/BI%20Text%20Classification%20Overview.ipynb).
+Overview and summary of the results is available in [here](https://nbviewer.org/github/yunhwanchoi/BI-Text-Classification/blob/main/BI%20Text%20Classification%20Overview.ipynb).
 
-Full walk through of the code is available in [BI Text Classification Code.ipynb](https://github.com/yunhwanchoi/BI-Text-Classification/blob/main/BI%20Text%20Classification%20Code.ipynb). 
+Full walk through of the code is available in [BI Text Classification Code.ipynb](https://nbviewer.org/github/yunhwanchoi/BI-Text-Classification/blob/main/BI%20Text%20Classification%20Code.ipynb). 
