@@ -1,6 +1,6 @@
 # Building Classifiers of Specific Text Entities
 
-The following analysis describes a text classifier and extraction pipeline that parse through 730 articles on Business Insider and extracts entities in which it recognizes as one of three given types: **CEOs, companies, and percentages.** 
+The following project analyzes text classifiers that parse through 730 articles on Business Insider and extracts entities in which it recognizes as one of three given types: **CEOs, companies, and percentages.** 
 
 Based on provided label values for each of the three categories, a logistic regression model for each entity type was constructed to classify the words based the context of the sentence they are in. The CEO classifier, company classifier, and the percentage classifier models were run through a subset of entities from the corpus composing of all 730 articles. 
 
