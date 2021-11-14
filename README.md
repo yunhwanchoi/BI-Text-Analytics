@@ -13,4 +13,5 @@ The system parsed through a corpus of .txt files of total 730 Business Insider a
 
 Overview and summary of the results is available in [here](https://nbviewer.org/github/yunhwanchoi/BI-Text-Classification/blob/main/BI%20Text%20Classification%20Overview.ipynb).
 
+
 Full walk through of the code is available in [here](https://nbviewer.org/github/yunhwanchoi/BI-Text-Classification/blob/main/BI%20Text%20Classification%20Code.ipynb). 
